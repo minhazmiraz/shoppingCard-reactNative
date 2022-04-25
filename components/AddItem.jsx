@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
 	},
 	btnText: {
 		textAlign: "center",
-		fontSize: 20,
+		fontSize: 21,
 	},
 });
 
